@@ -1,0 +1,8 @@
+*.o
+/cmake_install.cmake
+/CMakeCache.txt
+/Makefile
+/CMakeFiles
+/.idea
+/traffix_linux
+/cmake-build-debug/
